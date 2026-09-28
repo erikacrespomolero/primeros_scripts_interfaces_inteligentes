@@ -10,16 +10,20 @@ En estos ejercicios se ha aprendido a trabajar en la creación de scripts en C# 
 
 ### Ejercicio 1
 El objeto cambia de color cada tantos frames indicados con un RGB aleatorio, y ese intervalo se puede modificar desde el Inspector.
+
 ![ejercicio1](./gifs/ejercicio1.gif)
 
 ### Ejercicio 2
 Al iniciar, la consola y el Inspector muestran la magnitud de cada vector, el ángulo entre ellos, su distancia y cuál está más alto.
+
 ![ejercicio1](./gifs/ejercicio2.gif)
 
 ### Ejercicio 3
 Al iniciar, la consola imprime la posición exacta de la esfera en el espacio 3D mediante transform.position.
+
 ![ejercicio1](./gifs/ejercicio3.gif)
 
 ### Ejercicio 4
 Al iniciar, la consola muestra la distancia de la esfera al cubo y al cilindro, localizándolos por sus etiquetas.
+
 ![ejercicio1](./gifs/ejercicio4.gif)
